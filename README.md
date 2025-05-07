@@ -71,12 +71,12 @@ My name is Jevgeni and I am striving to become a professional in IT development.
  <tr>
   <td>
       <a href="https://nilender-andrey.github.io/JavaScript/game_2048/index.html" target="_blank">
-       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-03-22_18-50-34.png" width="480" ></kbd>
+       <kbd><img src="./assets/img/simon-says.jpg" width="480" ></kbd>
       </a>
    </td>
    <td>
-     <span>🎮 <b>"2048"</b> the game</span><br /><br />
-   <a href="https://github.com/Nilender-Andrey/studioratio/tree/module2">Link to code<a/>
+     <span>🎮 <b>"Simon Says"</b> the game</span><br /><br />
+   <a href="https://github.com/Webis-2022/simon-says/tree/simon-says">Link to code<a>
    </td>
   </tr>
 
@@ -88,7 +88,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
      <span>📄 <b>"StarDB"</b> single page application react</span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/StarDB/StarDB">Link to code<a/>
+    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/StarDB/StarDB">Link to code<a>
    </td>
   </tr>
 
@@ -100,7 +100,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
      <span>🎮 <b>"Wolf and eggs"</b> the game</span><br /><br />
-   <a href="https://github.com/Nilender-Andrey/JavaScript/tree/main/random-game">Link to code<a/>
+   <a href="https://github.com/Nilender-Andrey/JavaScript/tree/main/random-game">Link to code<a>
    </td>
   </tr>
 
@@ -112,7 +112,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
      <span>📄 <b>"Photographer portfolio"</b> </span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/photographer-portfolio/tree/js30%231.3-custom-video">Link to code<a/>
+    <a href="https://github.com/Nilender-Andrey/photographer-portfolio/tree/js30%231.3-custom-video">Link to code<a>
    </td>
   </tr>
 
@@ -124,7 +124,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
      <span>🎮 <b>"English for kids"</b> learning English words</span><br /><br />
-   <a href="https://github.com/Nilender-Andrey/english-for-kids-base">Link to code<a/>
+   <a href="https://github.com/Nilender-Andrey/english-for-kids-base">Link to code<a>
    </td>
   </tr>
 
@@ -136,7 +136,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
       <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span><br /><br />
-     <a href="https://github.com/Nilender-Andrey/react/tree/react-testing">Link to code<a/>
+     <a href="https://github.com/Nilender-Andrey/react/tree/react-testing">Link to code<a>
    </td>
   </tr>
 
@@ -148,7 +148,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
        <span>🎮 <b>"Rock Paper Scissors"</b></span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/Paper_Rock_Scissors">Link to code<a/>
+    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/Paper_Rock_Scissors">Link to code<a>
       </td>
   </tr>
 
@@ -160,7 +160,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
       <span>🎮 <b>"Find a pair"</b></span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/nilender-andrey-JSFE2021Q1/tree/Match-Match-Game">Link to code<a/>
+    <a href="https://github.com/Nilender-Andrey/nilender-andrey-JSFE2021Q1/tree/Match-Match-Game">Link to code<a>
    </td>
   </tr>
   <!--
@@ -172,7 +172,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
       </td>
    <td>
      <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a/>
+    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a>
    </td>
   </tr>
 
@@ -184,7 +184,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
    <td>
      <span>🔍 React app for searching books using the Google Books API</span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/react_book_search_google_books_API">Link to code<a/>
+    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/react_book_search_google_books_API">Link to code<a>
    </td>
   </tr>
 -->
