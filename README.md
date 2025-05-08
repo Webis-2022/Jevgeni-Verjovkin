@@ -5,7 +5,7 @@
 **Courses:**
 <table>
   <tr>
-     <td>✔️</td><td><a href="#"><img alt="certificate" src="./assets/img/javaScript-front-end-2024.svg"/></a></td>
+     <td>✔️</td><td><a href="#"><img alt="certificate" src="./assets/img/javascript-front-end-2024.svg"/></a></td>
   </tr>
 
   <tr>
