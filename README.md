@@ -1,41 +1,38 @@
  ## 👋 Hello!
-My name is Jevgeni and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
+❗ My name is Jevgeni and I have a great interest in the field of web development and I hope that my desire to keep learning will help me become a demand front-end developer.
 -----
-❗ My goal is to be in demand as a frontend developer
-🚀 Committed to Full Stack Web Developer
------
-**To do this, done:**
+**Courses:**
 <table>
   <tr>
-     <td>✔️</td><td><a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a></td>
+     <td>✔️</td><td><a href="#"><img alt="certificate" src="./assets/img/JavaScript_Front--end-2024.svg"/></a></td>
   </tr>
 
   <tr>
-    <td>✔️</td><td> <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a></td>
+    <td>✔️</td><td> <a href="https://app.rs.school/certificate/6xhw1h9u"> <img alt="certificate" src="./assets/img/certificate-javascript-front-end-2024-pre-school.svg"/></a></td>
   </tr>
 
   <tr>
-    <td>✔️</td><td> <a href="https://app.rs.school/certificate/143zikow">
-   <img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a></td>
+    <td>✔️</td><td> <a href="https://www.sololearn.com/en/certificates/CC-HDOHRPRY">
+   <img alt="certificate" src="./assets/img/certificate-sololearn-javascript.svg"/></a></td>
   </tr>
 
  <tr>
  <td>✔️</td>
  <td>
-  <a href="https://stepik.org/cert/1658918">
-   <img alt="certificate" src="https://img.shields.io/badge/Stepik-certificate%20SQL%202022-31648c?style=for-the-badge"/>
+  <a href="https://www.sololearn.com/certificates/CC-QEWX8XLZ">
+   <img alt="certificate" src="./assets/img/certificate-sololearn-javascript-intermediate.svg"/>
   </a>
 </td>
 </tr>
 
   <tr>
-    <td>🕑</td><td> <img alt="codewars" src="https://www.codewars.com/users/Nilender-Andrey/badges/small"/></td>
+    <td>✔️</td><td> <img alt="codewars" src="https://www.codewars.com/users/Jevgeni%20Verjovkin/badges/small"/></td>
   </tr>
 </table>
 
 -----
-💻  I know how to work with:
+💻  I know how it works:
 -----
 
 <section align="center">
@@ -43,15 +40,13 @@ My name is Jevgeni and I am striving to become a professional in IT development.
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330"/>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff"/>
-<img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="edux" src="https://img.shields.io/badge/Redux-f3f6f4?style=for-the-badge&logo=redux&logoColor=764abc"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="SEO" src="./assets/img/seo.svg"/>
 <img alt="NPM" src="https://img.shields.io/badge/npm-CB3534?style=for-the-badge&logo=npm&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-3e2c00?style=for-the-badge&logo=git&logoColor=f1502f"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-737373?style=for-the-badge&logo=figma&logoColor=fa9705"/>
 <img alt="SCSS" src="https://img.shields.io/badge/Scss-cc6a9a?style=for-the-badge&logo=sass&logoColor=f3f6f4"/>
-<img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
-<img alt="MS-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img alt="Rest Api" src="./assets/img/rest-api.svg">
+<img alt="MY SQL" src="./assets/img/my-sql.svg"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 
@@ -59,10 +54,12 @@ My name is Jevgeni and I am striving to become a professional in IT development.
 &nbsp;
 
 -----
+🚀 My next goals are to learn REACT and MONGODB
+-----
 
-## 👀 What would I show you? May be...
+## Completed projects
 
- <p>You can click on the picture to see how the app works</b></p>
+ <p>Click image to try how it works</b></p>
 
 ---
 
@@ -70,7 +67,7 @@ My name is Jevgeni and I am striving to become a professional in IT development.
 
  <tr>
   <td>
-      <a href="https://nilender-andrey.github.io/JavaScript/game_2048/index.html" target="_blank">
+      <a href="https://webis-2022.github.io/simon-says/" target="_blank">
        <kbd><img src="./assets/img/simon-says.jpg" width="480" ></kbd>
       </a>
    </td>
@@ -80,120 +77,60 @@ My name is Jevgeni and I am striving to become a professional in IT development.
    </td>
   </tr>
 
+  <tr>
+  <td>
+      <a href="https://rolling-scopes-school.github.io/webis-2022-JSFE2024Q4/nonograms/" target="_blank">
+       <kbd><img src="./assets/img/nonograms-image.jpg" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"Nonograms"</b> the game</span><br /><br />
+   <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/nonograms/nonograms/src">Link to code<a>
+   </td>
+  </tr>
+
    <tr>
     <td>
-      <a href="https://nilender-andrey.github.io/Make-React-Apps/starDB/index.html" target="_blank" >
-      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-03-12_16-18-45.png" width="480" ></kbd>
+      <a href="https://rolling-scopes-school.github.io/webis-2022-JSFEPRESCHOOL2024Q2/image-gallery/" target="_blank" >
+      <kbd><img src="./assets/img/image-gallery.jpg" width="480" ></kbd>
       </a>
    </td>
    <td>
-     <span>📄 <b>"StarDB"</b> single page application react</span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/StarDB/StarDB">Link to code<a>
-   </td>
-  </tr>
-
- <tr>
-  <td>
-      <a href="https://nilender-andrey.github.io/JavaScript/random-game/" target="_blank">
-       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-02-26_17-17-49.jpg" width="480" ></kbd>
-      </a>
-   </td>
-   <td>
-     <span>🎮 <b>"Wolf and eggs"</b> the game</span><br /><br />
-   <a href="https://github.com/Nilender-Andrey/JavaScript/tree/main/random-game">Link to code<a>
+     <span>📄 <b>"Image Gallery"</b> the application</span><br /><br />
+    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFEPRESCHOOL2024Q2/tree/image-gallery/image-gallery">Link to code<a>
    </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://nilender-andrey.github.io/photographer-portfolio/" target="_blank" >
-      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-02-14_14-03-54.png" width="480" ></kbd>
+      <a href="https://rolling-scopes-school.github.io/webis-2022-JSFEPRESCHOOL2024Q2/shelter/" target="_blank" >
+      <kbd><img src="./assets/img/shelter-image.jpg" width="480" ></kbd>
       </a>
    </td>
    <td>
-     <span>📄 <b>"Photographer portfolio"</b> </span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/photographer-portfolio/tree/js30%231.3-custom-video">Link to code<a>
-   </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/english-for-kids-base/dist/" target="_blank" >
-      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-09-27_18-38-59.jpg" width="480" ></kbd>
-      </a>
-   </td>
-   <td>
-     <span>🎮 <b>"English for kids"</b> learning English words</span><br /><br />
-   <a href="https://github.com/Nilender-Andrey/english-for-kids-base">Link to code<a>
-   </td>
-  </tr>
-
- <tr>
-   <td>
-     <a href="https://nilender-andrey.github.io/react_pages/react-redux/#/" target="_blank">
-    <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-09-27_21-16-07.jpg" width="480"></kbd>
-    </a>
-   </td>
-   <td>
-      <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span><br /><br />
-     <a href="https://github.com/Nilender-Andrey/react/tree/react-testing">Link to code<a>
+     <span>📄 <b>"Shelter"</b> the website</span><br /><br />
+    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFEPRESCHOOL2024Q2/tree/shelter-part3/shelter">Link to code<a>
    </td>
   </tr>
 
  <tr>
     <td>
-       <a href="https://nilender-andrey.github.io/Make-React-Apps/paper_rock_scissors/" target="_blank">
-       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/paper_rock_scissors.jpg"></kbd>
+       <a href="https://rolling-scopes-school.github.io/webis-2022-JSFE2024Q4/christmas-shop/" target="_blank">
+       <kbd><img src="./assets/img/christmas-shop-image.jpg"></kbd>
        </a>
    </td>
    <td>
-       <span>🎮 <b>"Rock Paper Scissors"</b></span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/Paper_Rock_Scissors">Link to code<a>
+       <span>📄 <b>"Christmas Shop"</b> the e-store</span><br /><br />
+    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/christmas-shop-part3/christmas-shop">Link to code<a>
       </td>
   </tr>
 
- <tr>
-    <td>
-       <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/match-match-game/dist/" target="_blank">
-       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/match_match_game.jpg"></kbd>
-       </a>
-   </td>
-   <td>
-      <span>🎮 <b>"Find a pair"</b></span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/nilender-andrey-JSFE2021Q1/tree/Match-Match-Game">Link to code<a>
-   </td>
-  </tr>
-  <!--
- <tr>
-    <td>
-     <a href="https://nilender-andrey.github.io/test_tasks/image_gallery/" target="_blank">
-     <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-16_17-45-21.png"></kbd>
-     </a>
-      </td>
-   <td>
-     <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a>
-   </td>
-  </tr>
-
- <tr>
-    <td>
-      <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
-      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-06_10-20-03.png"></kbd>
-      </a>
-   </td>
-   <td>
-     <span>🔍 React app for searching books using the Google Books API</span><br /><br />
-    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/react_book_search_google_books_API">Link to code<a>
-   </td>
-  </tr>
 -->
 </table>
 
 
 -----
 
-### Thank you for your time! 😎
 
 
 
