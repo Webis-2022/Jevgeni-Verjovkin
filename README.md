@@ -5,7 +5,7 @@
 **Courses:**
 <table>
   <tr>
-     <td>✔️</td><td><a href="#"><img alt="certificate" src="./assets/img/JavaScript_Front--end-2024.svg"/></a></td>
+     <td>✔️</td><td><a href="#"><img alt="certificate" src="./assets/img/javaScript-front-end-2024.svg"/></a></td>
   </tr>
 
   <tr>
@@ -47,6 +47,7 @@
 <img alt="SCSS" src="https://img.shields.io/badge/Scss-cc6a9a?style=for-the-badge&logo=sass&logoColor=f3f6f4"/>
 <img alt="Rest Api" src="./assets/img/rest-api.svg">
 <img alt="MY SQL" src="./assets/img/my-sql.svg"/>
+<img alt="Wordpress" src="./assets/img/wordpress.svg"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 
