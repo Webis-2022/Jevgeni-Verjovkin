@@ -117,7 +117,7 @@
  <tr>
     <td>
        <a href="https://rolling-scopes-school.github.io/webis-2022-JSFE2024Q4/christmas-shop/" target="_blank">
-       <kbd><img src="./assets/img/christmas-shop-image.jpg"></kbd>
+       <kbd><img src="./assets/img/christmas-shop-image.jpg" width="480"></kbd>
        </a>
    </td>
    <td>
@@ -129,7 +129,7 @@
    <tr>
     <td>
        <a href="https://webis.ee/portfoolio/" target="_blank">
-       <kbd><img src="./assets/img/webis.jpg"></kbd>
+       <kbd><img src="./assets/img/webis.jpg" width="480"></kbd>
        </a>
    </td>
    <td>
