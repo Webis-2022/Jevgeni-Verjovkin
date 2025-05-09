@@ -74,7 +74,7 @@
    </td>
    <td>
      <span>🎮 <b>"Simon Says"</b> the game</span><br /><br />
-   <a href="https://github.com/Webis-2022/simon-says/tree/simon-says">Link to code<a>
+   <a href="https://github.com/Webis-2022/simon-says/tree/simon-says">Link to code</a>
    </td>
   </tr>
 
@@ -86,7 +86,7 @@
    </td>
    <td>
      <span>🎮 <b>"Nonograms"</b> the game</span><br /><br />
-   <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/nonograms/nonograms/src">Link to code<a>
+   <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/nonograms/nonograms/src">Link to code</a>
    </td>
   </tr>
 
@@ -98,7 +98,7 @@
    </td>
    <td>
      <span>📄 <b>"Image Gallery"</b> the application</span><br /><br />
-    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFEPRESCHOOL2024Q2/tree/image-gallery/image-gallery">Link to code<a>
+    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFEPRESCHOOL2024Q2/tree/image-gallery/image-gallery">Link to code</a>
    </td>
   </tr>
 
@@ -110,7 +110,7 @@
    </td>
    <td>
      <span>📄 <b>"Shelter"</b> the website</span><br /><br />
-    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFEPRESCHOOL2024Q2/tree/shelter-part3/shelter">Link to code<a>
+    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFEPRESCHOOL2024Q2/tree/shelter-part3/shelter">Link to code</a>
    </td>
   </tr>
 
@@ -122,61 +122,21 @@
    </td>
    <td>
        <span>📄 <b>"Christmas Shop"</b> the e-store</span><br /><br />
-    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/christmas-shop-part3/christmas-shop">Link to code<a>
+    <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/christmas-shop-part3/christmas-shop">Link to code</a>
       </td>
   </tr>
 
--->
+   <tr>
+    <td>
+       <a href="https://webis.ee/portfoolio/" target="_blank">
+       <kbd><img src="./assets/img/webis.jpg"></kbd>
+       </a>
+   </td>
+   <td>
+       <span>🔗 <b>"Websites created on different CMS"</b></span>
+      </td>
+  </tr>
 </table>
-
 
 -----
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Nilender-Andrey/Nilender-Andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Completed the course "ReactJS 2021" at "ItGid"
-Completed the course "JavaScript / Front-end 2021" at "RS School"
--->
-
-<!-- Архив -->
-<!-- <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-8C0000.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="testing-library" src="https://img.shields.io/badge/rtl-8C0000.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-8C0000.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-8C0000.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-8C0000.svg?&style=for-the-badge&logo=gitlab&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="jira" src="https://img.shields.io/badge/jira-8C0000.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-8C0000.svg?&style=for-the-badge&logo=confluence&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="heroku" src="https://img.shields.io/badge/heroku-8C0000.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-8C0000.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-8C0000.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
