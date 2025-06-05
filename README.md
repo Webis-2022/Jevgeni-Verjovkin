@@ -74,19 +74,19 @@
    </td>
    <td>
      <span>🎮 <b>"Simon Says"</b> the game</span><br /><br />
-   <a href="https://github.com/Webis-2022/simon-says/tree/simon-says">Link to code</a>
+   <a href="https://github.com/Webis-2022/simon-says">Link to code</a>
    </td>
   </tr>
 
   <tr>
   <td>
-      <a href="https://rolling-scopes-school.github.io/webis-2022-JSFE2024Q4/nonograms/" target="_blank">
+      <a href="https://webis-2022.github.io/nonograms/" target="_blank">
        <kbd><img src="./assets/img/nonograms-image.jpg" width="480" ></kbd>
       </a>
    </td>
    <td>
      <span>🎮 <b>"Nonograms"</b> the game</span><br /><br />
-   <a href="https://github.com/rolling-scopes-school/webis-2022-JSFE2024Q4/tree/nonograms/nonograms/src">Link to code</a>
+   <a href="https://github.com/Webis-2022/nonograms">Link to code</a>
    </td>
   </tr>
 
